@@ -5,7 +5,7 @@ import (
 	"net/http"
 )
 
-// HandlerFunc defines the request handler used by gee
+// HandlerFunc defines the request handler used by 7days
 type HandlerFunc func(*Context)
 
 // Engine implement the interface of ServeHTTP
